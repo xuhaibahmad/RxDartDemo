@@ -1,0 +1,14 @@
+{
+  "@@locale": "en",
+  "appTitle": "RxDart Demo",
+  "profileSettingsTitle": "Settings",
+  "profileSettingsItemFaceId": "Face ID",
+  "profileSettingsItemTouchId": "Fingerprint",
+  "profileSettingsItemPasscode": "Passcode",
+  "profileSettingsItemRate": "Reference Exchange Rate",
+  "profileSettingsRemoveButton": "Remove Wallet",
+  "profileSettingsRemoveAlertTitle": "⚠️ Warning!",
+  "profileSettingsRemoveAlertSubtitle": "Double-check that you have a backup before removing this wallet. Without a backup, you will have no way to restore the wallet. Removing the wallet will delete all associated keys and take you back to the app's start screen.",
+  "profileSettingsRemoveAlertCancelButton": "Cancel",
+  "profileSettingsRemoveAlertConfirmButton": "Remove wallet"
+}
